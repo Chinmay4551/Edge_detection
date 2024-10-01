@@ -31,6 +31,9 @@
 *.out
 *.app
 
+
+*.xci
+*.dcp
 Edge_detection.cache/
 Edge_detection.runs/
 Edge_detection.sim/
