@@ -1,6 +1,0 @@
-verilog xil_defaultlib  \
-"../../../../Edge_detection.gen/sources_1/ip/outputBuffer/sim/outputBuffer.v" \
-
-verilog xil_defaultlib "glbl.v"
-
-nosort

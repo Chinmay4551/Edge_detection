@@ -32,3 +32,9 @@
 *.app
 
 Edge_detection.cache/
+Edge_detection.runs/
+Edge_detection.sim/
+Edge_detection.ip_user_files/
+Edge_detection.hw/
+Edge_detection.gen/
+sim_1/
